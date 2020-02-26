@@ -13,3 +13,5 @@ Element stripping added under every environment to make running example easy
 * `yarn install`
 * `ember serve`
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
+
+Visiting the application [http://localhost:4200/](http://localhost:4200/) will show numbers next to text when test selectors are not being stripped.
