@@ -4,7 +4,7 @@ Reproduction repository for `ember-test-selectors` repo issue #427
 
 [data-test selectors are not stripped from colocated component templates](https://github.com/simplabs/ember-test-selectors/issues/427)
 
-Element stripping added under every environment to make running example easy
+Element attribute stripping added under every environment to make running example easy
 
 ## Steps
 
