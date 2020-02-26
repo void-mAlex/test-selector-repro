@@ -1,0 +1,6 @@
+.test .inner[data-test-present-inner]::before {
+    content: attr(data-test-present-inner);
+}
+.test .inner[data-test-simple]::after {
+  content: attr(data-test-simple);
+}
